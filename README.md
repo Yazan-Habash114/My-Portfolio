@@ -1,4 +1,5 @@
 # My-Portfolio
+Includes my information from my resume.
 
 ## Technologies Used
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
